@@ -1,0 +1,23 @@
+
+ DEMO程序说明列表，请选择合适您的DEMO程序进行参考：
+
+1) pgLiveMultiCapture.htm：
+	多视频/音频源API的采集端DEMO程序。
+	
+2) pgLiveMultiRender.htm：
+	多视频/音频源API的播放端DEMO程序。
+	
+3) pgLiveMultiRenderVideo1.htm：
+	多视频/音频源API的播放端DEMO程序（访问VideoID为1的视频流）。
+
+4) pgLiveMultiCaptureSingle.htm：
+	多视频/音频源API的采集端DEMO程序（SingleMode）。
+
+5) pgLiveMultiRenderSingle.htm：
+	多视频/音频源API的播放端DEMO程序（SingleMode）。
+
+6) pgLiveCapture.htm:
+	单视频/音频源API的采集端DEMO程序。
+
+7) pgLiveRender.htm
+	单视频/音频源API的播放端DEMO程序。
